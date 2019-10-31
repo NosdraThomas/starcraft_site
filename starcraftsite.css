@@ -5,6 +5,11 @@ body{
         font-family: helvetica;
           background-image: images/galaxy.jpg;}
 
+a{
+  text-align: center;
+    font-size:30px;
+}
+
 
 
 h1{
@@ -16,6 +21,9 @@ h1{
 
 p{
   text-align: center;}
+*{
+text-align: center;
+}
 
 /* .box{
   background-image: .jpg;
