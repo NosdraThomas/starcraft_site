@@ -1,0 +1,21 @@
+body{
+  background-color: navy;
+    color:white;
+      font-size:16px;
+        font-family: helvetica;
+          background-image: galaxy.jpg;
+            }
+
+h1{
+  text-align: center;
+    font-size:25px;
+      /* font-family: */
+        margin-right:99px;
+              margin-left:99px;}
+
+p{
+  text-align: center;}
+
+/* .box{
+  background-image: .jpg;
+    width: 1000px;} */
